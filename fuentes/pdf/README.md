@@ -5,6 +5,8 @@
 | [ENFEN-comunicado-15-2026.pdf](ENFEN-comunicado-15-2026.pdf) | Comunicado Oficial ENFEN N.° 15-2026 | 28/08/2026 |
 | [ENFEN-comunicado-16-2026.pdf](ENFEN-comunicado-16-2026.pdf) | Comunicado Oficial ENFEN N.° 16-2026 | 14/09/2026 |
 | [ENFEN-comunicado-17-2026.pdf](ENFEN-comunicado-17-2026.pdf) | Comunicado Oficial ENFEN N.° 17-2026 (el PDF dice "2027" en la fecha por error tipográfico; es 2026) | 28/09/2026 |
+| [ENFEN-17-2026-probabilidades-nino-1-2.png](ENFEN-17-2026-probabilidades-nino-1-2.png) | Figura 2a del N.° 17: probabilidades mensuales, Niño Costero | 28/09/2026 |
+| [ENFEN-17-2026-probabilidades-nino-3-4.png](ENFEN-17-2026-probabilidades-nino-3-4.png) | Figura 2b del N.° 17: probabilidades mensuales, Niño 3.4 | 28/09/2026 |
 
 Fuente: https://enfen.imarpe.gob.pe/comunicados/
 

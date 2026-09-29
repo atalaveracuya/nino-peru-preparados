@@ -2,6 +2,7 @@
 
 | Fecha | Cambio | Fuente que lo motiva |
 |---|---|---|
+| 29/09/2026 | Se extrajeron las **probabilidades mensuales** (octubre 2026 a mayo 2027) de los gráficos del Comunicado N.° 17. El Niño Costero extraordinario sube a **88 % en octubre, 85 % en noviembre, 80 % en diciembre y 65 % en enero** (el N.° 16 daba 48 % para el verano en conjunto). Se corrigió el umbral de la categoría extraordinaria: ICEN > 3.5 °C, no 3.0. | Figura 2 del Comunicado ENFEN N.° 17-2026 |
 | 29/09/2026 | **Verificación:** se cotejaron los comunicados ENFEN N.° 15, 16 y 17-2026 con los PDF oficiales. Se añadieron las probabilidades para el verano (extraordinario 48 %, fuerte 45 %), la fecha del próximo comunicado (15/10) y los enlaces al escenario de CENEPRED y al Visor INDECI. Se corrigió la fecha del comunicado N.° 15 (28/08, no 12/08). Se confirmó que la sierra sur y la Amazonía tendrán lluvias de normal a inferior. | PDF de los comunicados ENFEN N.° 15, 16 y 17-2026 |
 | 29/09/2026 | Versión inicial: contexto, riesgos, soluciones y lecciones de Banerjee y Duflo. Cifras pendientes de cotejo con los documentos originales. | Comunicado ENFEN N.° 17-2026 (28/09/2026) |
 

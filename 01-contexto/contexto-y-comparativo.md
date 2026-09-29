@@ -33,7 +33,7 @@
 
 **Estados del sistema de alerta ENFEN** (de menor a mayor atención): *No activo → Vigilancia → Alerta*. En el caso de El Niño Costero, "Alerta" significa que el evento **ya se inició o es muy probable que se inicie** y que se espera su continuidad.
 
-**Categorías del ICEN** (definición del ENFEN): débil, moderado, fuerte y **extraordinario**. Según la prensa, el umbral de la categoría extraordinaria es un ICEN mayor que 3.0.
+**Categorías del ICEN** (definición del ENFEN): débil, moderado, fuerte y **extraordinario**. Según la leyenda de la Figura 2 del Comunicado ENFEN N.° 17-2026, la categoría extraordinaria corresponde a un **ICEN mayor que 3.5 °C** y la fuerte a un ICEN entre 2.1 y 3.5 °C. ✅
 
 ---
 
@@ -54,6 +54,38 @@
 | **28/09/2026** | **N.° 17-2026 (el más reciente)** ✅ | **Alerta de El Niño Costero** | *"El Niño Costero se prolongaría hasta el otoño de 2027."* Niño 1+2 **extraordinario** hasta enero 2027; Niño 3.4 **muy fuerte** hasta enero. **Octubre-diciembre:** lluvias superiores a lo normal en la costa norte, costa central y valles de la vertiente occidental andina norte, con episodios puntuales de lluvia moderada a fuerte sobre todo en la costa norte (ya ocurrieron en Tumbes). Caudales por encima de lo habitual en los ríos Tumbes, Chira, Piura, La Leche y Jequetepeque. **Sierra sur y Amazonía: lluvias y caudales de normal a inferior.** **Verano 2027:** lluvias sobre lo normal en costa norte, costa central y sierra norte occidental. Temperaturas del aire muy superiores a lo habitual en toda la costa, con alta probabilidad de récords. **Próximo comunicado: jueves 15/10/2026** |
 
 ✅ = cotejado con el PDF oficial del comunicado (ver `../fuentes/pdf/`). Fuentes del resto: portal ENFEN (Comunicados), notas de Infobae, La República, Gestión y Radio RSD. Ver enlaces. **Estado del ENFEN al 29/09/2026: ALERTA DE EL NIÑO COSTERO.**
+
+### 2.1.1 Probabilidades mensuales del Comunicado ENFEN N.° 17-2026 (28/09/2026) ✅
+
+Cifras leídas de las etiquetas de la Figura 2 del comunicado. Cada mes suma 100 %. Gráficos originales: [Niño 1+2](../fuentes/pdf/ENFEN-17-2026-probabilidades-nino-1-2.png) · [Niño 3.4](../fuentes/pdf/ENFEN-17-2026-probabilidades-nino-3-4.png).
+
+**a) El Niño Costero (región Niño 1+2, frente a nuestra costa), según el ICEN**
+
+| Mes | Extraordinaria (ICEN > 3.5 °C) | Fuerte (2.1 a 3.5) | Moderada (1.3 a 2.1) | Débil (0.5 a 1.3) | Neutral | Fría (La Niña) |
+|---|---|---|---|---|---|---|
+| Oct 2026 | **88 %** | 12 % | – | – | – | – |
+| Nov 2026 | **85 %** | 15 % | – | – | – | – |
+| Dic 2026 | **80 %** | 20 % | – | – | – | – |
+| Ene 2027 | **65 %** | 33 % | 2 % | – | – | – |
+| Feb 2027 | 43 % | **45 %** | 11 % | 1 % | – | – |
+| Mar 2027 | 30 % | **40 %** | 24 % | 5 % | 1 % | – |
+| Abr 2027 | 15 % | **26 %** | 21 % | 21 % | 15 % | 2 % (débil) |
+| May 2027 | 8 % | 13 % | 16 % | 22 % | **30 %** | 11 % (10 débil + 1 moderada) |
+
+**b) El Niño del Pacífico central (región Niño 3.4), según el RONI**
+
+| Mes | Muy fuerte (RONI ≥ 2.0 °C) | Fuerte (≥ 1.5) | Moderada (≥ 1.0) | Débil (≥ 0.5) | Neutral | Fría (La Niña) |
+|---|---|---|---|---|---|---|
+| Oct 2026 | **80 %** | 20 % | – | – | – | – |
+| Nov 2026 | **85 %** | 15 % | – | – | – | – |
+| Dic 2026 | **83 %** | 17 % | – | – | – | – |
+| Ene 2027 | **70 %** | 29 % | 1 % | – | – | – |
+| Feb 2027 | **47 %** | 42 % | 10 % | 1 % | – | – |
+| Mar 2027 | 27 % | **32 %** | 26 % | 10 % | 5 % | – |
+| Abr 2027 | 7 % | 15 % | **31 %** | 28 % | 15 % | 4 % (débil) |
+| May 2027 | 1 % | 8 % | 20 % | 25 % | **33 %** | 13 % (12 débil + 1 moderada) |
+
+**Lectura:** frente al N.° 16 (48 % de extraordinario para el verano en conjunto), el N.° 17 **eleva la probabilidad de un Niño Costero extraordinario a 80-88 % entre octubre y diciembre de 2026**. El pico sería **octubre-diciembre**; desde **febrero** lo más probable es "fuerte", y hacia **mayo de 2027** lo más probable es volver a condiciones neutras. La Niña no aparece antes de abril (y con probabilidad baja).
 
 ### 2.2 Índice Costero El Niño (ICEN)
 
@@ -218,7 +250,7 @@
 ## 7. Datos que faltan o que no pudieron verificarse
 
 - **No se pudo abrir ningún PDF ni página oficial** por restricciones de red. Todas las cifras deben confirmarse en los documentos listados en `../fuentes/01-contexto-enlaces.md`.
-- ✅ *Resuelto (29/09/2026):* los comunicados ENFEN N.° 15, 16 y 17-2026 se cotejaron con los PDF oficiales. El N.° 17 no trae tabla de probabilidades en texto (solo figura); las últimas probabilidades numéricas publicadas son las del N.° 16.
+- ✅ *Resuelto (29/09/2026):* los comunicados ENFEN N.° 15, 16 y 17-2026 se cotejaron con los PDF oficiales. Las probabilidades mensuales del N.° 17 se extrajeron de las etiquetas de su Figura 2 (ver sección 2.1.1).
 - Hay que confirmar los **valores oficiales del ICEN** de julio y agosto de 2026, porque las fuentes no coinciden.
 - Hay que confirmar la **lista de distritos** del anexo del DS 124-2026-PCM para Cañete, Satipo, Oxapampa, Piura y Arequipa.
 - Faltan las cifras oficiales de INDECI sobre los daños de enero a marzo de 2026 por distrito.
