@@ -1,0 +1,11 @@
+title: "El Niño 2026-2027: preparados, no asustados"
+description: "Guía práctica para familias, municipios y puestos de salud de Cañete, Satipo, Oxapampa, Piura y Arequipa"
+theme: jekyll-theme-cayman
+lang: es
+plugins:
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+relative_links:
+  enabled: true
+  collections: false
