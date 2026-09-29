@@ -2,7 +2,7 @@
 
 **Guía práctica para familias, municipalidades y puestos de salud de San Antonio/Cañete, Satipo, Oxapampa, Piura (sierra y costa) y Arequipa costa.**
 
-*Última actualización: 29 de septiembre de 2026 · Esta página se actualiza con cada comunicado del ENFEN (cada 2 semanas aprox.)*
+*Última actualización: 29 de septiembre de 2026 (Comunicado ENFEN N.° 17-2026) · Se actualiza con cada comunicado del ENFEN, aproximadamente cada 2 semanas*
 
 > **Por qué compartimos esto.** El Niño, a diferencia de un sismo, **avisa con meses de anticipación**. Eso es una ventaja: hay tiempo para prepararse. La idea no es alarmar, sino que cada familia, municipio y puesto de salud **active sus protocolos ahora**, antes de noviembre.
 
@@ -10,13 +10,15 @@
 
 ## 1. ¿Qué está pasando? (en 5 líneas)
 
-1. El **ENFEN** (la comisión oficial que vigila El Niño en el Perú) mantiene el **Estado de Alerta de El Niño Costero** desde febrero de 2026. El comunicado más reciente es el **N.° 17-2026, del 28/09/2026**.
-2. Se espera un Niño Costero de magnitud **extraordinaria hasta enero de 2027**, junto con un Niño **muy fuerte** en el Pacífico central. Es la misma combinación de 1982-83 y 1997-98.
-3. **Periodo más crítico:** de **noviembre de 2026 a febrero de 2027**. Las lluvias en la costa norte y central estarían **por encima de lo normal desde octubre**.
+1. ✅ El **ENFEN** (la comisión oficial que vigila El Niño en el Perú) mantiene el **Estado de Alerta de El Niño Costero**. Su comunicado más reciente es el **N.° 17-2026, del 28/09/2026**: *"El Niño Costero se prolongaría hasta el otoño de 2027"*.
+2. ✅ Frente a nuestra costa, El Niño se mantendría con magnitud **extraordinaria hasta enero de 2027**, y en el Pacífico central sería **muy fuerte**. Según el comunicado N.° 16, para el verano (diciembre a marzo) las probabilidades son **extraordinario 48 %, fuerte 45 % y moderado 7 %**. Es decir, casi con seguridad será un Niño fuerte o mayor.
+3. ✅ **Octubre a diciembre:** lluvias **por encima de lo normal en la costa norte, la costa central y los valles andinos del norte**, con episodios puntuales de lluvia moderada a fuerte (ya ocurrieron en Tumbes). Subirían los ríos **Tumbes, Chira, Piura**, La Leche y Jequetepeque. En la **sierra sur y la Amazonía**, lluvias **normales o por debajo de lo normal**. Habrá **calor muy por encima de lo habitual en toda la costa**, con posibles récords.
 4. El Gobierno declaró **estado de emergencia preventivo en 893 distritos** (DS 124-2026-PCM). Lima, Piura, Arequipa, Junín y Pasco están entre las regiones incluidas.
 5. **Dengue:** Piura ya supera los 10 000 casos en 2026 y el CDC-MINSA emitió una alerta epidemiológica.
 
-> ⚠️ **Nota de honestidad:** estas cifras se recopilaron de resúmenes de búsqueda y prensa que citan a las instituciones oficiales. Aún se están cotejando con los documentos originales (ver [lista de verificación](fuentes/PENDIENTES-DESCARGA.md)). **La fuente final siempre es el ENFEN, SENAMHI, INDECI y tu municipalidad.**
+✅ = verificado en el documento oficial ([comunicados ENFEN en PDF](fuentes/pdf/)). **Próximo comunicado ENFEN: jueves 15 de octubre de 2026.**
+
+> ⚠️ **Nota de honestidad:** los puntos sin ✅ vienen de prensa que cita a las instituciones oficiales y aún se están cotejando (ver la [lista de verificación](fuentes/PENDIENTES-DESCARGA.md)). **La fuente final siempre es el ENFEN, SENAMHI, INDECI y tu municipalidad.**
 
 ---
 
@@ -97,7 +99,8 @@ Si alguien tiene fiebre con dolor de cuerpo o de ojos, **debe ir al puesto de sa
 - **ENFEN**, comunicados cada 2 semanas: https://enfen.imarpe.gob.pe/comunicados/
 - **SENAMHI**, avisos de lluvia por zona: https://www.senamhi.gob.pe
 - **INDECI**, alertas y preparación: https://www.gob.pe/indeci
-- **CENEPRED / SIGRID**, mapas de riesgo por distrito: https://sigrid.cenepred.gob.pe
+- **CENEPRED / SIGRID**, mapas de riesgo por distrito: https://sigrid.cenepred.gob.pe (escenario de riesgo que recomienda el ENFEN: https://sigrid.cenepred.gob.pe/sigridv3/documento/22787)
+- **Visor INDECI**, herramienta para autoridades locales: https://geo.indeci.gob.pe/visorindeci/
 - **CDC-MINSA**, situación del dengue: https://www.dge.gob.pe
 - **Marina de Guerra (DHN)**, avisos de oleaje y tsunami: https://www.dhn.mil.pe
 

@@ -49,11 +49,11 @@
 | 15/06/2026 | N.° 11-2026 | Alerta | — |
 | 26/06/2026 | N.° 12-2026 | Alerta | — |
 | 17/07/2026 | N.° 13-2026 | Alerta | — |
-| Agosto de 2026 | N.° 15-2026 / Informe Técnico (12/08/2026) | Alerta | Magnitud **entre fuerte y extraordinaria** al menos hasta el verano de 2027. Probabilidad del escenario extraordinario: **62 %** (frente a 33 % un mes antes) |
-| **14/09/2026** | **N.° 16-2026** | Alerta | Niño 1+2 **extraordinario** más probable entre septiembre de 2026 y enero de 2027, con continuidad hasta mediados del otoño de 2027. Niño 3.4 **muy fuerte** entre septiembre de 2026 y enero de 2027, luego **fuerte** en febrero-marzo, y debilitamiento en otoño. Temperaturas del aire **muy por encima de lo normal** en la costa entre septiembre y noviembre, con **posibles récords** |
-| **28/09/2026** | **N.° 17-2026 (el más reciente)** | **Alerta de El Niño Costero** | Niño Costero **extraordinario** hasta enero de 2027 y Niño 3.4 **muy fuerte**. Lluvias **sobre lo normal entre octubre y diciembre** en la costa norte, la costa central y los valles occidentales del norte. Posibles caudales altos en los ríos Tumbes, Chira, Piura, La Leche y Jequetepeque |
+| **28/08/2026** | **N.° 15-2026** ✅ | Alerta | Niño 1+2: magnitud **extraordinaria** de setiembre 2026 a enero 2027 (**≥ 62 %**), entre fuerte y extraordinaria en febrero-marzo 2027. Niño 3.4: **muy fuerte** (≥ 58 %), con máxima intensidad en noviembre-diciembre 2026. Probabilidades para el verano (dic 2026 - mar 2027), Niño Costero: extraordinario 43 %, fuerte 40 %, moderado 16 %, débil 1 %. Ríos del Pacífico en rangos normales; Amazonía y Titicaca de normal a inferior |
+| **14/09/2026** | **N.° 16-2026** ✅ | Alerta | Niño 1+2 con la más alta probabilidad de magnitud **extraordinaria** de setiembre 2026 a enero 2027; continuaría hasta mediados del otoño 2027. Niño 3.4 **muy fuerte** hasta enero, luego fuerte. **Probabilidades para el verano (dic 2026 - mar 2027): Niño Costero extraordinario 48 %, fuerte 45 %, moderado 7 %; Niño 3.4 muy fuerte 55 %, fuerte 40 %, moderado 5 %.** Caudales sobre lo normal en el norte desde noviembre; centro, sur, Amazonía y Titicaca de normal a inferior |
+| **28/09/2026** | **N.° 17-2026 (el más reciente)** ✅ | **Alerta de El Niño Costero** | *"El Niño Costero se prolongaría hasta el otoño de 2027."* Niño 1+2 **extraordinario** hasta enero 2027; Niño 3.4 **muy fuerte** hasta enero. **Octubre-diciembre:** lluvias superiores a lo normal en la costa norte, costa central y valles de la vertiente occidental andina norte, con episodios puntuales de lluvia moderada a fuerte sobre todo en la costa norte (ya ocurrieron en Tumbes). Caudales por encima de lo habitual en los ríos Tumbes, Chira, Piura, La Leche y Jequetepeque. **Sierra sur y Amazonía: lluvias y caudales de normal a inferior.** **Verano 2027:** lluvias sobre lo normal en costa norte, costa central y sierra norte occidental. Temperaturas del aire muy superiores a lo habitual en toda la costa, con alta probabilidad de récords. **Próximo comunicado: jueves 15/10/2026** |
 
-Fuentes: portal ENFEN (Comunicados), notas de Infobae, La República, Gestión y Radio RSD. Ver enlaces. **Estado del ENFEN al 29/09/2026: ALERTA DE EL NIÑO COSTERO.**
+✅ = cotejado con el PDF oficial del comunicado (ver `../fuentes/pdf/`). Fuentes del resto: portal ENFEN (Comunicados), notas de Infobae, La República, Gestión y Radio RSD. Ver enlaces. **Estado del ENFEN al 29/09/2026: ALERTA DE EL NIÑO COSTERO.**
 
 ### 2.2 Índice Costero El Niño (ICEN)
 
@@ -218,7 +218,7 @@ Fuentes: portal ENFEN (Comunicados), notas de Infobae, La República, Gestión y
 ## 7. Datos que faltan o que no pudieron verificarse
 
 - **No se pudo abrir ningún PDF ni página oficial** por restricciones de red. Todas las cifras deben confirmarse en los documentos listados en `../fuentes/01-contexto-enlaces.md`.
-- Falta el **texto completo del Comunicado ENFEN N.° 17-2026**, con sus probabilidades exactas por magnitud.
+- ✅ *Resuelto (29/09/2026):* los comunicados ENFEN N.° 15, 16 y 17-2026 se cotejaron con los PDF oficiales. El N.° 17 no trae tabla de probabilidades en texto (solo figura); las últimas probabilidades numéricas publicadas son las del N.° 16.
 - Hay que confirmar los **valores oficiales del ICEN** de julio y agosto de 2026, porque las fuentes no coinciden.
 - Hay que confirmar la **lista de distritos** del anexo del DS 124-2026-PCM para Cañete, Satipo, Oxapampa, Piura y Arequipa.
 - Faltan las cifras oficiales de INDECI sobre los daños de enero a marzo de 2026 por distrito.

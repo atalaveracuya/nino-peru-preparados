@@ -4,7 +4,7 @@
 
 ## A. Situación 2026 (ENFEN, CENEPRED, MINSA)
 
-1. [PENDIENTE DE DESCARGA MANUAL] **Comunicado Oficial ENFEN N.° 16-2026** – https://enfen.imarpe.gob.pe/download/comunicado-oficial-enfen-n-16-2026/ – Alerta de El Niño costero; magnitud extraordinaria más probable entre set. 2026 y ene. 2027; continuaría hasta el otoño de 2027.
+1. [VERIFICADO – PDF en fuentes/pdf/] **Comunicado Oficial ENFEN N.° 16-2026** – https://enfen.imarpe.gob.pe/download/comunicado-oficial-enfen-n-16-2026/ – Alerta de El Niño costero; magnitud extraordinaria más probable entre set. 2026 y ene. 2027; continuaría hasta el otoño de 2027.
 2. [PENDIENTE DE DESCARGA MANUAL] **Comunicado Oficial ENFEN N.° 13-2026** – https://enfen.imarpe.gob.pe/2026/07/17/comunicado-oficial-enfen-n-13-2026-estado-de-sistema-de-alerta-alerta-de-el-nino-costero/
 3. [PENDIENTE DE DESCARGA MANUAL] **Portal ENFEN** – https://enfen.imarpe.gob.pe/
 4. [PENDIENTE DE DESCARGA MANUAL] **CENEPRED – Escenario de riesgo por sequías asociadas a El Niño 2026-2027** – https://sigrid.cenepred.gob.pe/sigridv3/storage/biblioteca//22312_estudio-de-escenario-de-riesgo-por-sequias-asociadas-al-fenomeno-el-nino-2026-2027.pdf

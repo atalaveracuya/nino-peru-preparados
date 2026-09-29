@@ -8,8 +8,9 @@
 
 - [PENDIENTE DE DESCARGA MANUAL] **Portal de Comunicados ENFEN**: https://enfen.imarpe.gob.pe/comunicados/. Contiene la lista de todos los comunicados de 2026. Hay que descargar el **N.° 17-2026 (28/09/2026)**, que es el más reciente.
 - [PENDIENTE DE DESCARGA MANUAL] Portal ENFEN (inicio): https://enfen.imarpe.gob.pe/
-- [PENDIENTE DE DESCARGA MANUAL] **Comunicado Oficial ENFEN N.° 16-2026** (14/09/2026). Alerta de El Niño Costero. Niño 1+2 extraordinario y Niño 3.4 muy fuerte: https://enfen.imarpe.gob.pe/download/comunicado-oficial-enfen-n-16-2026/
-- [PENDIENTE DE DESCARGA MANUAL] Comunicado Oficial ENFEN N.° 15-2026 (agosto de 2026): https://enfen.imarpe.gob.pe/download/comunicado-oficial-enfen-n-15-2026
+- [VERIFICADO – PDF en fuentes/pdf/] **Comunicado Oficial ENFEN N.° 17-2026** (28/09/2026). Alerta de El Niño Costero; se prolongaría hasta el otoño de 2027; próximo comunicado el 15/10/2026: fuentes/pdf/ENFEN-comunicado-17-2026.pdf
+- [VERIFICADO – PDF en fuentes/pdf/] **Comunicado Oficial ENFEN N.° 16-2026** (14/09/2026). Alerta de El Niño Costero. Niño 1+2 extraordinario y Niño 3.4 muy fuerte: https://enfen.imarpe.gob.pe/download/comunicado-oficial-enfen-n-16-2026/
+- [VERIFICADO – PDF en fuentes/pdf/] Comunicado Oficial ENFEN N.° 15-2026 (agosto de 2026): https://enfen.imarpe.gob.pe/download/comunicado-oficial-enfen-n-15-2026
 - [PENDIENTE DE DESCARGA MANUAL] Comunicado Oficial ENFEN N.° 13-2026 (17/07/2026), página: https://enfen.imarpe.gob.pe/2026/07/17/comunicado-oficial-enfen-n-13-2026-estado-de-sistema-de-alerta-alerta-de-el-nino-costero/ y PDF: https://enfen.imarpe.gob.pe/download/comunicado-oficial-enfen-n-13-2026/
 - [PENDIENTE DE DESCARGA MANUAL] Comunicado Oficial ENFEN N.° 12-2026 (26/06/2026): https://enfen.imarpe.gob.pe/2026/06/26/comunicado-oficial-enfen-n-12-2026-estado-del-sistema-de-alerta-alerta-de-el-nino-costero/
 - [PENDIENTE DE DESCARGA MANUAL] Comunicado Oficial ENFEN N.° 11-2026 (15/06/2026): https://enfen.imarpe.gob.pe/2026/06/15/comunicado-oficial-enfen-n-11-2026-estado-del-sistema-de-alerta-alerta-de-el-nino-costero/
