@@ -13,7 +13,7 @@
 1. ✅ El **ENFEN** (la comisión oficial que vigila El Niño en el Perú) mantiene el **Estado de Alerta de El Niño Costero**. Su comunicado más reciente es el **N.° 17-2026, del 28/09/2026**: *"El Niño Costero se prolongaría hasta el otoño de 2027"*.
 2. ✅ Frente a nuestra costa, El Niño sería **extraordinario**, con probabilidad de **88 % en octubre, 85 % en noviembre, 80 % en diciembre y 65 % en enero** (Comunicado N.° 17). Desde febrero bajaría a **fuerte**, y hacia **mayo de 2027** lo más probable es volver a la normalidad. En el Pacífico central sería **muy fuerte** (80-85 % entre octubre y diciembre). Es la misma combinación de 1982-83 y 1997-98. [Ver tabla mes a mes](01-contexto/contexto-y-comparativo.md#211-probabilidades-mensuales-del-comunicado-enfen-n-17-2026-28092026-)
 3. ✅ **Octubre a diciembre:** lluvias **por encima de lo normal en la costa norte, la costa central y los valles andinos del norte**, con episodios puntuales de lluvia moderada a fuerte (ya ocurrieron en Tumbes). Subirían los ríos **Tumbes, Chira, Piura**, La Leche y Jequetepeque. En la **sierra sur y la Amazonía**, lluvias **normales o por debajo de lo normal**. Habrá **calor muy por encima de lo habitual en toda la costa**, con posibles récords.
-4. El Gobierno declaró **estado de emergencia preventivo en 893 distritos** (DS 124-2026-PCM). Lima, Piura, Arequipa, Junín y Pasco están entre las regiones incluidas.
+4. ✅ **Estado de emergencia preventivo:** en julio se declaró en 796 distritos (DS 097-2026-PCM) y en septiembre se amplió a **893** (DS 124-2026-PCM). En el decreto de julio **están los 65 distritos de Piura**, San Antonio y San Vicente de Cañete, Oxapampa, y parte de Camaná, Caravelí e Islay. **Satipo no figuraba en julio.** [¿Está mi distrito?](01-contexto/distritos-en-emergencia.md)
 5. **Dengue:** Piura ya supera los 10 000 casos en 2026 y el CDC-MINSA emitió una alerta epidemiológica.
 
 ✅ = verificado en el documento oficial ([comunicados ENFEN en PDF](fuentes/pdf/)). **Próximo comunicado ENFEN: jueves 15 de octubre de 2026.**
@@ -110,6 +110,7 @@ Si alguien tiene fiebre con dolor de cuerpo o de ojos, **debe ir al puesto de sa
 
 | Tema | Documento |
 |---|---|
+| **¿Mi distrito está en emergencia?** | [Lista por zona](01-contexto/distritos-en-emergencia.md) |
 | Contexto actual, historia (1983, 1998, 2017, 2023) y comparación con sismos, friaje, sequía y otros peligros | [01 · Contexto y comparativo](01-contexto/contexto-y-comparativo.md) |
 | Riesgos para la salud, la economía y el trabajo | [02 · Riesgos](02-riesgos/salud-economia-trabajo.md) |
 | Soluciones con evidencia: familias, municipios, gobierno central y puestos de salud | [03 · Soluciones prácticas](03-soluciones/soluciones-practicas.md) |
