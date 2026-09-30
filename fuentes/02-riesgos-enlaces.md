@@ -19,7 +19,7 @@
 ## B. Salud (MINSA, CDC-Perú, OPS, papers)
 
 12. [PENDIENTE DE DESCARGA MANUAL] **CDC-MINSA – Portal (salas situacionales)** – https://www.dge.gob.pe/portalnuevo/
-13. [PENDIENTE DE DESCARGA MANUAL] **CDC-MINSA – Alerta epidemiológica 2026** – https://epipublic.dge.gob.pe/uploads/alertas/alertas_20261_09_145341.pdf – Contenido no visto.
+13. [VERIFICADO – PDF en fuentes/pdf/] **CDC-MINSA – Alerta Epidemiológica AE-CDC N.° 001-2026 (9/01/2026), ante el incremento de casos de dengue** – https://epipublic.dge.gob.pe/uploads/alertas/alertas_20261_09_145341.pdf – No es la alerta por El Niño.
 14. [PENDIENTE DE DESCARGA MANUAL] **CDC-MINSA – Sala situacional leptospirosis 2026 (SE10)** – https://www.dge.gob.pe/portal/docs/vigilancia/sala/2026/SE10/leptospirosis.pdf
 15. [PENDIENTE DE DESCARGA MANUAL] **CDC-MINSA – Sala leptospirosis 2023 (SE03)** – https://www.dge.gob.pe/portal/docs/vigilancia/sala/2023/SE03/leptospirosis.pdf
 16. [PENDIENTE DE DESCARGA MANUAL] **CDC-MINSA – Alerta AE-016-2023: extensión del dengue a nuevos distritos** – https://www.hnhu.gob.pe/Inicio/wp-content/uploads/2016/07/AE-CDC-N-016-2023-Epidemia-de-dengue-en-el-Peru-extension-nuevos-distritos.pdf

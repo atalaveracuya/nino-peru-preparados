@@ -58,7 +58,7 @@
 - [ ] Capacitar brigadas en el **empadronamiento de damnificados (EDAN)**. Ese padrón decide quién recibe ayuda.
 
 ### 🏥 Puestos de salud
-- [ ] Aplicar la **alerta epidemiológica de dengue del CDC** y hacer triaje de pacientes con fiebre.
+- [ ] Aplicar la **Alerta Epidemiológica AE-CDC N.° 001-2026** ([PDF](fuentes/pdf/CDC-alerta-epidemiologica-dengue-AE-001-2026.pdf)): Unidad de Febriles, triaje diferenciado para grupos de riesgo, monitoreo diario del Grupo A y **nada de metamizol ni AINES**.
 - [ ] Personal capacitado en la **NTS 211-MINSA** (manejo del dengue y signos de alarma).
 - [ ] **Stock para 15 a 30 días:** sales de rehidratación, suero fisiológico, paracetamol, pruebas rápidas y mosquiteros. En la sierra de Piura, Satipo y Oxapampa, calcular **30 días** por posible aislamiento.
 - [ ] Plan de contingencia del establecimiento, incluso **si se inunda o queda aislado**.
@@ -69,7 +69,7 @@
 
 ## 4. 🚨 Dengue: señales de alarma
 
-Si alguien tiene fiebre con dolor de cuerpo o de ojos, **debe ir al puesto de salud y no automedicarse**. Sobre todo, **no debe tomar aspirina ni ibuprofeno**.
+Si alguien tiene fiebre con dolor de cuerpo o de ojos, **debe ir al puesto de salud y no automedicarse**. ✅ Según el MINSA, con dengue **nunca se debe dar Antalgina (metamizol), ibuprofeno, diclofenaco ni aspirina**. Para la fiebre se usa paracetamol, como indique el personal de salud. **Gestantes, niños menores de 5 años y adultos mayores** deben ir el mismo día.
 
 **Debe ir de inmediato** si tiene cualquiera de estas señales:
 - dolor fuerte de barriga;
@@ -88,7 +88,7 @@ Si alguien tiene fiebre con dolor de cuerpo o de ojos, **debe ir al puesto de sa
 | Bomberos | **116** |
 | SAMU (ambulancia) | **106** |
 | Policía | **105** |
-| MINSA (orientación en salud) | **113** |
+| MINSA (orientación en salud y dengue) | **113, opción 1** |
 
 **Anota aquí el teléfono del COE de tu municipalidad y de tu puesto de salud.**
 

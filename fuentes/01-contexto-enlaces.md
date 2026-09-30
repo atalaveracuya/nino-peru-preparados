@@ -73,7 +73,7 @@
 ## F. MINSA / CDC-Perú (salud)
 
 - [PENDIENTE DE DESCARGA MANUAL] **CDC Perú, alerta epidemiológica por riesgo de brotes grandes de dengue por El Niño Costero**: https://www.dge.gob.pe/portalnuevo/informacion-publica/prensa/cdc-peru-emite-alerta-epidemiologica-por-riesgo-de-presentacion-de-brotes-de-gran-magnitud-de-dengue-en-regiones-del-pais-por-fenomeno-del-nino-costero/
-- [PENDIENTE DE DESCARGA MANUAL] CDC Perú, PDF de alerta epidemiológica de 2026: https://epipublic.dge.gob.pe/uploads/alertas/alertas_20261_09_145341.pdf
+- [VERIFICADO – PDF en fuentes/pdf/] CDC Perú, Alerta Epidemiológica AE-CDC N.° 001-2026 (9/01/2026, incremento de dengue; no es la de El Niño): https://epipublic.dge.gob.pe/uploads/alertas/alertas_20261_09_145341.pdf
 - [PENDIENTE DE DESCARGA MANUAL] CDC Perú, alerta por aumento de casos de dengue: https://www.dge.gob.pe/portalnuevo/informacion-publica/prensa/cdc-peru-emite-alerta-epidemiologica-por-incremento-de-casos-de-dengue-en-el-peru/
 - [PENDIENTE DE DESCARGA MANUAL] CDC Perú, alerta por la epidemia de dengue de 2023: https://www.dge.gob.pe/portalnuevo/informacion-publica/prensa/cdc-peru-emite-alerta-epidemiologica-por-epidemia-de-dengue-en-el-pais/
 - [PENDIENTE DE DESCARGA MANUAL] CDC, AE N.° 016-2023, epidemia de dengue y extensión a nuevos distritos: https://www.hnhu.gob.pe/Inicio/wp-content/uploads/2016/07/AE-CDC-N-016-2023-Epidemia-de-dengue-en-el-Peru-extension-nuevos-distritos.pdf
