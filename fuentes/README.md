@@ -1,6 +1,7 @@
 # Fuentes
 
 - [📄 PDF oficiales descargados](pdf/README.md)
+- [📊 Datos oficiales en Excel (dengue)](datos/README.md)
 - [⭐ Documentos prioritarios por descargar y verificar](PENDIENTES-DESCARGA.md)
 - [01 · Contexto y comparativo: enlaces](01-contexto-enlaces.md)
 - [02 · Riesgos de salud, economía y trabajo: enlaces](02-riesgos-enlaces.md)

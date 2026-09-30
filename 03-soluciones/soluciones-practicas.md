@@ -16,7 +16,7 @@
 - **Escenarios de CENEPRED.** CENEPRED publicó escenarios de riesgo por lluvias, inundaciones y movimientos en masa, y otro por sequías, para El Niño 2026-2027. Según esos escenarios, la costa norte y central tendría lluvias por encima de lo normal, y los Andes centro y sur, lluvias normales o por debajo de lo normal. [F04][F05]
 - **Lecciones de 2017 y 2023.**
   - El Niño Costero de 2017 afectó a más de 1,5 millones de personas y causó 162 muertes. [F06][F07]
-  - En 2023 hubo la mayor epidemia de dengue de la historia del Perú: más de 192 000 casos y 249 muertes confirmadas hasta julio. La letalidad fue muy distinta entre regiones. [F08]
+  - En 2023 hubo la epidemia de dengue con más fallecidos de la historia del Perú (444 en el año; por casos la superó 2024, según el CDC-MINSA ✅): más de 192 000 casos y 249 muertes confirmadas hasta julio. La letalidad fue muy distinta entre regiones. [F08]
   - Un estudio publicado en *One Earth* (2026) atribuye a las lluvias extremas del ciclón Yaku cerca del 60 % de los casos de dengue en los distritos afectados. [F09]
   - La lección central es que **el dengue llega después del agua**. La preparación sanitaria tiene que ir a la par de la preparación ante inundaciones.
 

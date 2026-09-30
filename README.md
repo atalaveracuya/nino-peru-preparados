@@ -14,7 +14,7 @@
 2. ✅ Frente a nuestra costa, El Niño sería **extraordinario**, con probabilidad de **88 % en octubre, 85 % en noviembre, 80 % en diciembre y 65 % en enero** (Comunicado N.° 17). Desde febrero bajaría a **fuerte**, y hacia **mayo de 2027** lo más probable es volver a la normalidad. En el Pacífico central sería **muy fuerte** (80-85 % entre octubre y diciembre). Es la misma combinación de 1982-83 y 1997-98. [Ver tabla mes a mes](01-contexto/contexto-y-comparativo.md#211-probabilidades-mensuales-del-comunicado-enfen-n-17-2026-28092026-)
 3. ✅ **Octubre a diciembre:** lluvias **por encima de lo normal en la costa norte, la costa central y los valles andinos del norte**, con episodios puntuales de lluvia moderada a fuerte (ya ocurrieron en Tumbes). Subirían los ríos **Tumbes, Chira, Piura**, La Leche y Jequetepeque. En la **sierra sur y la Amazonía**, lluvias **normales o por debajo de lo normal**. Habrá **calor muy por encima de lo habitual en toda la costa**, con posibles récords.
 4. ✅ **Estado de emergencia preventivo (DS 124-2026-PCM, 1/09/2026): 893 distritos, vigente hasta fines de octubre salvo prórroga.** Incluye **los 65 distritos de Piura**, **los 9 de Satipo**, San Antonio y San Vicente de Cañete, Oxapampa, Pozuzo y Constitución, y 19 distritos de Camaná, Caravelí e Islay. **No figuran** Lunahuaná, Cerro Azul, Villa Rica, Puerto Bermúdez ni Mollendo. [¿Está mi distrito?](01-contexto/distritos-en-emergencia.md)
-5. **Dengue:** Piura ya supera los 10 000 casos en 2026 y el CDC-MINSA emitió una alerta epidemiológica.
+5. ✅ **Dengue (CDC-MINSA, a la semana 37):** en el país hay **59 543 casos y 70 fallecidos** en 2026, casi el doble que en 2025. **Piura es la región con más casos: 11 179.** La señal de atención es que en setiembre el dengue **no está bajando**: la semana 37 tuvo más casos que la misma semana de 2023. Los **adultos mayores** son quienes más mueren. [Ver datos](02-riesgos/dengue-situacion-actual.md)
 
 ✅ = verificado en el documento oficial ([comunicados ENFEN en PDF](fuentes/pdf/)). **Próximo comunicado ENFEN: jueves 15 de octubre de 2026.**
 
@@ -26,11 +26,11 @@
 
 | Zona | Qué esperar | Lo más importante |
 |---|---|---|
-| **San Antonio / Cañete** | Crecida del río Cañete y **activación de quebradas secas** por lluvias en la parte alta, aunque en la costa no llueva mucho. Calor fuerte. | No vivir ni construir en cauces de quebrada. Conocer las rutas de evacuación. Controlar el dengue. **Recuerda: también es zona de sismo y tsunami.** |
+| **San Antonio / Cañete** | Crecida del río Cañete y **activación de quebradas secas** por lluvias en la parte alta, aunque en la costa no llueva mucho. Calor fuerte. | No vivir ni construir en cauces de quebrada. Conocer las rutas de evacuación. Controlar el dengue. **Recuerda: también es zona de sismo y tsunami.** Lima ya tiene 5 539 casos de dengue en 2026. |
 | **Satipo y Oxapampa** (selva central) | **Aquí El Niño es distinto:** se proyectan lluvias **normales o por debajo de lo normal** entre noviembre y enero. Siguen los huaicos de la temporada normal, el friaje y el dengue. | **Tanques y baldes tapados** (con sequía también hay dengue, porque se almacena agua). Reserva de alimentos por si se cortan las vías. |
 | **Piura costa** (Piura, Sullana, Paita, Sechura, Talara) | **Zona de mayor riesgo del país.** Desborde de los ríos Piura y Chira, inundaciones urbanas, quebradas y oleajes. El drenaje pluvial de la ciudad aún no está construido. | Plan de evacuación por sector. Vaciar el agua estancada **después de cada lluvia**. Dengue y leptospirosis. |
 | **Piura sierra** (Ayabaca, Huancabamba, Morropón) | Deslizamientos, huaicos y **carreteras cortadas por días o semanas**. | Reserva de **7 a 14 días** de alimentos, agua y medicinas. Radio a pilas. Lista de vecinos vulnerables. |
-| **Arequipa costa** (Camaná, Caravelí, Islay/Mollendo) | Quebradas activadas y cortes de la Panamericana Sur. Menos pesca. **Posible falta de agua para riego** en 2027 por déficit de lluvia en la sierra sur. | Planificar viajes y abastecimiento. Cuidar los canales de riego. **Conocer la ruta de evacuación ante tsunami** (2001). |
+| **Arequipa costa** (Camaná, Caravelí, Islay/Mollendo) | Quebradas activadas y cortes de la Panamericana Sur. Menos pesca. **Posible falta de agua para riego** en 2027 por déficit de lluvia en la sierra sur. | Planificar viajes y abastecimiento. Cuidar los canales de riego. **Conocer la ruta de evacuación ante tsunami** (2001). El dengue es casi inexistente en Arequipa (1 caso en 2026). |
 
 ---
 
@@ -112,6 +112,7 @@ Si alguien tiene fiebre con dolor de cuerpo o de ojos, **debe ir al puesto de sa
 |---|---|
 | **¿Mi distrito está en emergencia?** | [Lista por zona](01-contexto/distritos-en-emergencia.md) |
 | Contexto actual, historia (1983, 1998, 2017, 2023) y comparación con sismos, friaje, sequía y otros peligros | [01 · Contexto y comparativo](01-contexto/contexto-y-comparativo.md) |
+| **Dengue hoy: cifras oficiales por región y edad** | [Dengue 2026](02-riesgos/dengue-situacion-actual.md) |
 | Riesgos para la salud, la economía y el trabajo | [02 · Riesgos](02-riesgos/salud-economia-trabajo.md) |
 | Soluciones con evidencia: familias, municipios, gobierno central y puestos de salud | [03 · Soluciones prácticas](03-soluciones/soluciones-practicas.md) |
 | Lecciones de Banerjee y Duflo (*Poor Economics*, J-PAL) | [04 · Banerjee y Duflo](04-banerjee-duflo/lecciones-banerjee-duflo.md) |
