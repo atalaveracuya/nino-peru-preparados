@@ -10,7 +10,7 @@ La lista completa de enlaces (más de 250) está en los archivos `01-` a `04-` d
 |---|---|---|---|
 | 1 | ✅ ~~Comunicado Oficial ENFEN N.° 17-2026 (28/09/2026)~~ | [PDF](pdf/ENFEN-comunicado-17-2026.pdf) | **Verificado el 29/09/2026** |
 | 2 | ✅ ~~Comunicados ENFEN N.° 15 y 16-2026~~ | [N.° 15](pdf/ENFEN-comunicado-15-2026.pdf) · [N.° 16](pdf/ENFEN-comunicado-16-2026.pdf) | **Verificados el 29/09/2026** |
-| 3 | ✅ DS 097-2026-PCM (julio, 796 distritos) **verificado**, ver [PDF](pdf/DS-097-2026-PCM-emergencia-796-distritos.pdf). **Falta el DS 124-2026-PCM (01/09/2026, 893 distritos) y su anexo** | https://busquedas.elperuano.pe (buscar "124-2026-PCM") | Sobre todo **si se agregó Satipo**, además de Lunahuaná, Cerro Azul, Villa Rica, Mollendo y Camaná |
+| 3 | ✅ ~~DS 124-2026-PCM (893 distritos) y DS 097-2026-PCM (796 distritos)~~ | [DS 124](pdf/DS-124-2026-PCM-emergencia-893-distritos.pdf) · [DS 097](pdf/DS-097-2026-PCM-emergencia-796-distritos.pdf) | **Verificados el 30/09/2026.** A fines de octubre hay que revisar si se prorrogó |
 | 4 | Alerta epidemiológica de dengue del CDC-MINSA (2026) | https://epipublic.dge.gob.pe/uploads/alertas/alertas_20261_09_145341.pdf | Regiones priorizadas y medidas |
 | 5 | Sala situacional de dengue del CDC-MINSA | https://www.dge.gob.pe/sala-situacional-dengue/ | Casos y fallecidos 2026 por región y distrito |
 | 6 | ICEN oficial (IMARPE-SIOFEN) | https://siofen.imarpe.gob.pe/nivel2/indice-costero-el-nino-icen | Valores de julio (3.29 o 3.42) y agosto (3.73) |
